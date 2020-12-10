@@ -1,5 +1,5 @@
 # K means Clustering
-Clustering Analysis on Cervical Cancer Dataset using K-means method
+Clustering Analysis on Cervical Cancer Dataset using K-means method.
 
 
 
@@ -31,7 +31,6 @@ Using statistical descriptive it can be seen the data characteristics of each va
 ## 3. Outlier Detection
 Outliers are extreme values that deviate from other observations on data and don't fit in some way. For the visualization of outliers, we can use the boxplot as follows:
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| **Boxplot** | ![](/images/p5.png) | ![](/images/p6.png) | ![](/images/p7.png) |
+| ----------- | ----------- |  ----------- |  ----------- |
+| ![](/images/p8.png) | ![](/images/p9.png) | ![](/images/p10.png) | ![](/images/p11.png) |
