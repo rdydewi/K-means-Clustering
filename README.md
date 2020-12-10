@@ -10,9 +10,28 @@ The data for this analysis was obtained from the UCI Machine Learning Repository
 
 These are the steps to do clustering analysis process:
 
+
 ## 1. Pre-processing Missing Value
 At this step, we will detect the missing value and resolve that missing value using imputation. 
-
 The number of missing value for each variable and the result of imputation looked as follows:
+
+
 ![](/images/p2.png)
+
+
 ![](/images/p3.png)
+
+
+
+## 2. Statistical Descriptive
+Using statistical descriptive it can be seen the data characteristics of each variable.
+
+![](/images/p4.png)
+
+## 3. Outlier Detection
+Outliers are extreme values that deviate from other observations on data and don't fit in some way. For the visualization of outliers, we can use the boxplot as follows:
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
